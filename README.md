@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍⚕️ Atualmente estou trabalhando como atendente de farmácia.<br>👨‍🎓 Cursando 3 Semestre em ciências da computação.<br>🌱Estudo contínuo sempre! Dart|Flutter, JavaScript|React|TyperScript, Java|SpringBoot.<br>❣️ Apaixonado por tecnologia.
+👨‍⚕️ Atualmente estou trabalhando como atendente de farmácia.<br>👨‍🎓 Cursando 3 Semestre em ciências da computação.<br>🌱Estudo contínuo sempre! Dart | Flutter | JavaScript | React | TyperScript | Java | SpringBoot.<br>❣️ Apaixonado por tecnologia.
 
 
 ## 🌐 Socials:
